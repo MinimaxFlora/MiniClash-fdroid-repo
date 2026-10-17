@@ -1,0 +1,10 @@
+repo_url: https://minimaxflora.github.io/MiniClash-fdroid-repo/repo
+repo_name: MiniClash
+repo_description: >-
+  The official F-Droid repository for MiniClash.
+
+repo_keyalias: KEYALIAS
+keystore: keystore.keystore
+keystorepass: KEYSTOREPASS
+keypass: KEYPASS
+keydname: KEYDNAME
