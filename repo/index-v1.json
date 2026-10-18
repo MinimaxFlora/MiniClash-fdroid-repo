@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1792264602000,
+    "timestamp": 1792290446000,
     "version": 20002,
     "name": "MiniClash",
     "icon": "icon.png",
@@ -22,21 +22,108 @@
         "Connectivity"
       ],
       "changelog": "https://github.com/MinimaxFlora/MiniClash/releases",
-      "suggestedVersionName": "0.1.2",
-      "suggestedVersionCode": "2026103704",
+      "suggestedVersionName": "0.1.3",
+      "suggestedVersionCode": "2026103801",
       "issueTracker": "https://github.com/MinimaxFlora/MiniClash/issues",
       "license": "GPL-3.0-or-later",
       "name": "MiniClash",
       "sourceCode": "https://github.com/MinimaxFlora/MiniClash",
-      "added": 1792264601000,
+      "added": 1792290442000,
       "packageName": "com.minimaxflora.miniclash",
-      "lastUpdated": 1792264601000
+      "lastUpdated": 1792290442000
     }
   ],
   "packages": {
     "com.minimaxflora.miniclash": [
       {
-        "added": 1792264601000,
+        "added": 1792290442000,
+        "apkName": "MiniClash-0.1.3-android-arm64-v8a.apk",
+        "hash": "c89cc5f816b64d9733f18df378036643eb69f9bc2e8cc697ec35296fa1db9162",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.minimaxflora.miniclash",
+        "sig": "a957870ab3b28c8d55e1f8a679b05ce2",
+        "signer": "bbb8626a10ec5b6354c6aec9aac6e32d4860b4440508fe634e8b71bf4e17ba0f",
+        "size": 60960443,
+        "targetSdkVersion": 37,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.permission.GET_INSTALLED_APPS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_LOCAL_NETWORK",
+            null
+          ],
+          [
+            "com.minimaxflora.miniclash.permission.RECEIVE_BROADCASTS",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            null
+          ],
+          [
+            "com.minimaxflora.miniclash.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 2026103801,
+        "versionName": "0.1.3"
+      },
+      {
+        "added": 1792290442000,
         "apkName": "MiniClash-0.1.2-android-arm64-v8a.apk",
         "hash": "ff303fe9088d45f6f5d0633fe056c3c46708a6f08b73d18062dc0ed2db5dc8e4",
         "hashType": "sha256",
@@ -123,7 +210,7 @@
         "versionName": "0.1.2"
       },
       {
-        "added": 1792264601000,
+        "added": 1792290442000,
         "apkName": "MiniClash-0.1.1-android-arm64-v8a.apk",
         "hash": "ee2a3bae4e7644ce98f4c46db9766fe9bccf0245dc704275f1ae9503636c2576",
         "hashType": "sha256",
@@ -230,7 +317,7 @@
         "versionName": "0.1.1"
       },
       {
-        "added": 1792264601000,
+        "added": 1792290442000,
         "apkName": "MiniClash-0.1.0-android-arm64-v8a.apk",
         "hash": "3077eb275b2289a73ab6e95d42b2b1ec970a1d848aa48fb32e88220276517981",
         "hashType": "sha256",
