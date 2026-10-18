@@ -1,0 +1,16 @@
+Categories:
+  - Internet
+  - Connectivity
+
+AuthorName: 'MinimaxFlora'
+License: GPL-3.0-or-later
+Name: MiniClash
+
+SourceCode: https://github.com/MinimaxFlora/MiniClash
+IssueTracker: https://github.com/MinimaxFlora/MiniClash/issues
+Changelog: https://github.com/MinimaxFlora/MiniClash/releases
+
+AllowedAPKSigningKeys: bbb8626a10ec5b6354c6aec9aac6e32d4860b4440508fe634e8b71bf4e17ba0f
+
+CurrentVersion: 0.1.2
+CurrentVersionCode: 2026103704
